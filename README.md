@@ -1,7 +1,7 @@
 
 ## Hey There 👋
 
-hi, i'm **ritika dey** — i love building things at the intersection of **product and ai**.
+hi, i'm **Ritika Dey** — i love building things at the intersection of **product and ai**.
 this is my corner of github where experiments, side projects, and ideas slowly turn into real products. 🚀
 
 ```python
